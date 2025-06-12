@@ -1,9 +1,6 @@
 # beauty-glow-data-analytics-case-study
 Sales analytics project for Beauty Glow. Analyzed sales data to uncover product trends, sales patterns, customer behavior, and promo effectiveness. Used SQL and Tableau to generate insights and recommendations to improve revenue and business performance.
 
-# Beauty Glow Sales Analytics Project
-
-This is a complete business analytics case study I worked on for Beauty Glow, a small beauty business.
 
 ## Objective
 Analyze sales data to help the business:
